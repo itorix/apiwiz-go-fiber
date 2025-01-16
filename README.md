@@ -28,7 +28,7 @@ cfg := &config.Config{
 ```
 
 ## Usage
-x
+
 ```go
 package main
 
