@@ -14,8 +14,8 @@ import (
 	"strings"
 	"sync"
 	"time"
-	"wizsource.apiwiz.io/backend/apiwiz-enable-detect-go-fiber/pkg/config"
-	"wizsource.apiwiz.io/backend/apiwiz-enable-detect-go-fiber/pkg/models"
+	"github.com/itorix/go-fiber/pkg/config"
+	"github.com/itorix/go-fiber/pkg/models"
 )
 
 type DetectMiddleware struct {

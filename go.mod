@@ -1,4 +1,4 @@
-module wizsource.apiwiz.io/backend/apiwiz-enable-detect-go-fiber
+module github.com/itorix/go-fiber
 
 go 1.19
 

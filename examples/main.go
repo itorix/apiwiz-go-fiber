@@ -5,8 +5,8 @@ import (
 	"github.com/gofiber/fiber/v2"
 	"log"
 	"net/http"
-	"wizsource.apiwiz.io/backend/apiwiz-enable-detect-go-fiber/pkg/config"
-	"wizsource.apiwiz.io/backend/apiwiz-enable-detect-go-fiber/pkg/middleware"
+	"github.com/itorix/go-fiber/pkg/config"
+	"github.com/itorix/go-fiber/pkg/middleware"
 )
 
 func main() {

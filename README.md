@@ -5,7 +5,7 @@ This SDK provides request/response monitoring and tracing capabilities for Fiber
 ## Installation
 
 ```bash
-go get wizsource.apiwiz.io/backend/apiwiz-enable-detect-go-fiber
+go get github.com/itorix/go-fiber
 ```
 
 ## Configuration
@@ -33,8 +33,8 @@ x
 package main
 
 import (
-    "wizsource.apiwiz.io/backend/apiwiz-enable-detect-go-fiber/pkg/config"
-    "wizsource.apiwiz.io/backend/apiwiz-enable-detect-go-fiber/pkg/middleware"
+    "github.com/itorix/go-fiber/pkg/config"
+    "github.com/itorix/go-fiber/pkg/middleware"
     "github.com/gofiber/fiber/v2"
 )
 
