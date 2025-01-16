@@ -1,4 +1,4 @@
-module github.com/itorix/go-fiber
+module github.com/itorix/apiwiz-go-fiber
 
 go 1.19
 

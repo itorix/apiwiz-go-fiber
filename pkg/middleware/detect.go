@@ -14,8 +14,8 @@ import (
 	"strings"
 	"sync"
 	"time"
-	"github.com/itorix/go-fiber/pkg/config"
-	"github.com/itorix/go-fiber/pkg/models"
+	"github.com/itorix/apiwiz-go-fiber/pkg/config"
+	"github.com/itorix/apiwiz-go-fiber/pkg/models"
 )
 
 type DetectMiddleware struct {

@@ -5,8 +5,8 @@ import (
 	"github.com/gofiber/fiber/v2"
 	"log"
 	"net/http"
-	"github.com/itorix/go-fiber/pkg/config"
-	"github.com/itorix/go-fiber/pkg/middleware"
+	"github.com/itorix/apiwiz-go-fiber/pkg/config"
+	"github.com/itorix/apiwiz-go-fiber/pkg/middleware"
 )
 
 func main() {
